@@ -1,8 +1,12 @@
 # Trabalho Final FBD / Loja
 
 ## Requisitos
-- Java 8
-- XAMPP
+- [Java 8](https://www.java.com/pt_BR/download/)
+- [XAMPP](https://www.apachefriends.org/pt_br/download.html)
+
+## XAMPP
+- Inicie o programa e clique em **Start** para **Apache** e **MySQL**
+- **Garanta que a porta _3306_ não esteja sendo usada por nenhum outro programa**
 
 ## Diagrama
 
